@@ -1,1 +1,1 @@
-_G.wl = {"Moving_Company","gizmar"}
+_G.wl = {"Moving_Company"}
